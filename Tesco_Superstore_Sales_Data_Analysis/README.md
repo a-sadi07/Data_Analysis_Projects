@@ -1,9 +1,9 @@
-## Superstore Sales Analysis (Practice Dataset)
+# Superstore Sales Analysis (Practice Dataset)
 
 This project is a practice data analysis exercise created for learning and portfolio development.
 It uses a fictional retail sales dataset, and any store names mentioned (e.g. Tesco) are used purely for educational purposes. This project is not affiliated with or endorsed by any real company.
 
-# Project Overview
+## Project Overview
 
 The aim of this project is to practice and demonstrate essential data analytics skills, including:
 
@@ -19,7 +19,7 @@ The aim of this project is to practice and demonstrate essential data analytics 
 
 The project is fully implemented in a Jupyter Notebook for clarity and reproducibility.
 
-# Technologies Used
+## Technologies Used
 
 * Python
 
@@ -29,7 +29,7 @@ The project is fully implemented in a Jupyter Notebook for clarity and reproduci
 
 * Jupyter Notebook
 
-  # Visualizations
+## Visualizations
 
 The notebook includes:
 
@@ -43,12 +43,12 @@ The notebook includes:
 
 * KPI summarie
 
- # Disclaimer
+ ## Disclaimer
 
 This project uses fully fictional, synthetic data for practice.
 Store names such as “ASDA” or “Tesco” are used only as examples.
 There is no real sales data, and this project is not associated with any real retailer.
 
-# License
+## License
 
 You may freely use, modify, or reference this project for your own learning and portfolio.
