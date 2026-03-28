@@ -1,4 +1,4 @@
-📊 **Hotel Booking Cancellation Analysis Dashboard**
+📊 ###**Hotel Booking Cancellation Analysis Dashboard**
 
 This project presents an interactive data visualization dashboard designed to analyze hotel booking and cancellation patterns. The dashboard provides key insights into customer behavior, seasonal trends, and factors influencing cancellations, supporting data-driven decision-making in the hospitality domain.
 
@@ -7,6 +7,7 @@ This project presents an interactive data visualization dashboard designed to an
 The dashboard summarizes booking data across multiple dimensions, including hotel type, guest type, room preferences, and time (monthly trends). It highlights critical metrics and patterns that help identify high-risk segments and peak cancellation periods.
 
 📌 *Key Features*
+
 Total Metrics
 Total bookings and cancellations
 Peak booking and cancellation periods (e.g., highest activity in August)
@@ -23,6 +24,7 @@ Monthly breakdown of total guests vs. cancellations
 Detection of seasonal patterns and demand fluctuations
 
 🛠️ *Tools & Technologies*
+
 Data visualization platform (e.g.Excel Dashboard)
 Dataset containing booking and cancellation records
 Data preprocessing and aggregation techniques
