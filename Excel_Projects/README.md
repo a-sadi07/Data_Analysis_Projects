@@ -37,5 +37,6 @@ Support operational and revenue optimization strategies
 Enhance customer targeting and retention efforts
 
 🚀 *Use Cases*
+
 Hospitality management analytics
 Revenue and demand forecasting
