@@ -8,8 +8,8 @@ The dashboard summarizes booking data across multiple dimensions, including hote
 
 📌 ***Key Features***
 
-Total Metrics
-Total bookings and cancellations
+**Total Metrics**
+* Total bookings and cancellations
 Peak booking and cancellation periods (e.g., highest activity in August)
 Hotel-Based Analysis
 Comparison between City Hotels and Resort Hotels
