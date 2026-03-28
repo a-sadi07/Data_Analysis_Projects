@@ -10,18 +10,18 @@ The dashboard summarizes booking data across multiple dimensions, including hote
 
 **Total Metrics**
 * Total bookings and cancellations
-Peak booking and cancellation periods (e.g., highest activity in August)
-Hotel-Based Analysis
-Comparison between City Hotels and Resort Hotels
-Distribution of cancellations across hotel types
-Room Preference Insights
-Cancellation trends based on desired vs. undesired room allocations
-Guest Segmentation
-Analysis of cancellations by guest type (Couples, Families, Singles)
-Identification of segments with the highest cancellation rates
-Time-Series Trends
-Monthly breakdown of total guests vs. cancellations
-Detection of seasonal patterns and demand fluctuations
+* Peak booking and cancellation periods (e.g., highest activity in August)
+**Hotel-Based Analysis**
+* Comparison between City Hotels and Resort Hotels
+* Distribution of cancellations across hotel types
+**Room Preference Insights**
+* Cancellation trends based on desired vs. undesired room allocations
+**Guest Segmentation**
+* Analysis of cancellations by guest type (Couples, Families, Singles)
+* Identification of segments with the highest cancellation rates
+**Time-Series Trends**
+* Monthly breakdown of total guests vs. cancellations
+* Detection of seasonal patterns and demand fluctuations
 
 🛠️ ***Tools & Technologies***
 
