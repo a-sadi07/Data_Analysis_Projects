@@ -29,18 +29,18 @@ The dashboard summarizes booking data across multiple dimensions, including hote
 
 🛠️ ***Tools & Technologies***
 
-Data visualization platform (e.g.Excel Dashboard)
-Dataset containing booking and cancellation records
-Data preprocessing and aggregation techniques
+* Data visualization platform (e.g.Excel Dashboard)
+* Dataset containing booking and cancellation records
+* Data preprocessing and aggregation techniques
 
 📈 ***Purpose***
 
-The primary goal of this project is to:
-Identify trends and drivers behind booking cancellations
-Support operational and revenue optimization strategies
-Enhance customer targeting and retention efforts
+* The primary goal of this project is to:
+* Identify trends and drivers behind booking cancellations
+* Support operational and revenue optimization strategies
+* Enhance customer targeting and retention efforts
 
 🚀 ***Use Cases***
 
-Hospitality management analytics
-Revenue and demand forecasting
+* Hospitality management analytics
+* Revenue and demand forecasting
