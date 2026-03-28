@@ -1,4 +1,4 @@
-📊 ###**Hotel Booking Cancellation Analysis Dashboard**
+📊 ### **Hotel Booking Cancellation Analysis Dashboard**
 
 This project presents an interactive data visualization dashboard designed to analyze hotel booking and cancellation patterns. The dashboard provides key insights into customer behavior, seasonal trends, and factors influencing cancellations, supporting data-driven decision-making in the hospitality domain.
 
