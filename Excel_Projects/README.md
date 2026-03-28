@@ -6,7 +6,7 @@ This project presents an interactive data visualization dashboard designed to an
 
 The dashboard summarizes booking data across multiple dimensions, including hotel type, guest type, room preferences, and time (monthly trends). It highlights critical metrics and patterns that help identify high-risk segments and peak cancellation periods.
 
-📌 *Key Features*
+📌 ***Key Features***
 
 Total Metrics
 Total bookings and cancellations
@@ -23,20 +23,20 @@ Time-Series Trends
 Monthly breakdown of total guests vs. cancellations
 Detection of seasonal patterns and demand fluctuations
 
-🛠️ *Tools & Technologies*
+🛠️ ***Tools & Technologies***
 
 Data visualization platform (e.g.Excel Dashboard)
 Dataset containing booking and cancellation records
 Data preprocessing and aggregation techniques
 
-📈 *Purpose*
+📈 ***Purpose***
 
 The primary goal of this project is to:
 Identify trends and drivers behind booking cancellations
 Support operational and revenue optimization strategies
 Enhance customer targeting and retention efforts
 
-🚀 *Use Cases*
+🚀 ***Use Cases***
 
 Hospitality management analytics
 Revenue and demand forecasting
